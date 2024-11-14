@@ -1,5 +1,5 @@
 <h1 align="center"> Personal Portfolio </h1>
-## Table of Contents 📁
+Table of Contents 📁
 
 1. [Tech Stack](#tech-stack-)
 2. [Implemented Sections](#implemented-sections-%EF%B8%8F)
